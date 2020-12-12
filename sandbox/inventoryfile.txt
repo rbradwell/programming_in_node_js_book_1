@@ -1,0 +1,1 @@
+[{"item":"CPU","description":"Desktop computer CPU"},{"item":"Monitor","description":"LCD monitor"}]
